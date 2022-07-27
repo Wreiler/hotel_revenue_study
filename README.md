@@ -26,7 +26,9 @@ ______________________________________________________________
  
  ### DASHBOARD from Microsoft Power BI:
  
+  https://app.powerbi.com/groups/me/reports/d57ae735-2812-4068-9974-0bfd37bcd60f/ReportSection?bookmarkGuid=7b9517b1-ddab-41bf-89b7-bcdc50e6a838&bookmarkUsage=1&ctid=0c949a07-fbfa-45ad-8111-940b88c9a0ff&fromEntryPoint=export
+ 
+ Dashboard is presented in PDF format - https://github.com/Wreiler/hotel_revenue_study/blob/main/hotel_DashBI.pdf
+
+ 
  ![image](https://github.com/Wreiler/hotel_revenue_study/blob/main/Screenshot1.png)
- 
- 
- https://app.powerbi.com/groups/me/reports/d57ae735-2812-4068-9974-0bfd37bcd60f/ReportSection?bookmarkGuid=7b9517b1-ddab-41bf-89b7-bcdc50e6a838&bookmarkUsage=1&ctid=0c949a07-fbfa-45ad-8111-940b88c9a0ff&fromEntryPoint=export
